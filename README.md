@@ -1,2 +1,1 @@
-Yeshanov Timur
-Web developer
+
