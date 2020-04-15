@@ -1,5 +1,1 @@
-Header
 
-Title
-
-Footer
